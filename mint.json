@@ -15,9 +15,9 @@
       "to": "#8F447C"
     }
   },
-  "theme": {
+  "modeToggle": {
     "default": "dark",
-    "isHidden": false
+    "isHidden": true
   },
   "topbarLinks": [
     {
