@@ -5,7 +5,7 @@
     "dark": "/logo/maisa-iso-alpha-b@3x.svg",
     "light": "/logo/maisa-iso-alpha-w@3x.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/maisa-iso-alpha-b@3x.svg",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
