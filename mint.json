@@ -16,8 +16,8 @@
     }
   },
   "modeToggle": {
-    "default": "light",
-    "isHidden": true
+    "default": "dark",
+    "isHidden": false
   },
   "topbarLinks": [
     {
