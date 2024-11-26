@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "KPU Playground",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/maisa-iso-alpha-b@3x.svg",
+    "light": "/logo/maisa-iso-alpha-w@3x.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
