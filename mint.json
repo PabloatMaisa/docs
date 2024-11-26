@@ -2,14 +2,14 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "KPU Playground",
   "logo": {
-    "dark": "/logo/maisa-iso-alpha-b@3x.svg",
+    "dark": "/logo/maisa-iso-alpha-w@3x.svg",
     "light": "/logo/maisa-iso-alpha-b@3x.svg"
   },
   "favicon": "/logo/maisa-iso-alpha-b@3x.svg",
   "colors": {
     "primary": "#5E114B",
     "light": "#8F447C",
-    "dark": "#0D9373",
+    "dark": "#38072C",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
