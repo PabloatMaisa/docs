@@ -7,12 +7,12 @@
   },
   "favicon": "/logo/maisa-iso-alpha-b@3x.svg",
   "colors": {
-    "primary": "#E2657E",
-    "light": "#8F447C",
+    "primary": "#5E114B",
+    "light": "#E2657E",
     "dark": "#38072C",
     "anchors": {
       "from": "#5E114B",
-      "to": "#8F447C"
+      "to": "#E2657E"
     }
   },
   "modeToggle": {
