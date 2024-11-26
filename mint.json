@@ -33,7 +33,7 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
+        "user_guide",
         "quickstart",
         "development",
         "Test"
